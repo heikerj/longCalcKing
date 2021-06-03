@@ -525,11 +525,12 @@ img.img{
 
 
 
-.img img{
-    
- max-width: 100%;
+.logo img {
+
+  max-width: 100%;
   height: auto;
-    }
+
+}
 
 
  
