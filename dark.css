@@ -505,8 +505,9 @@ body::-webkit-scrollbar-thumb {
   
 }
 
-.img{
-  width= auto;
+img.img{
+ max-width= 100%;
+    width= auto;
     height= auto;
     size= auto;
 }
