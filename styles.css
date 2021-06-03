@@ -525,14 +525,10 @@ img.img{
 
 
 
-img.img{
-
- max-width= 100%;
-
-    width= auto;
-
-    height= auto;
-
+img.{
+    
+ max-width: 100%;
+  height: auto;
     }
 
 
